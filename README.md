@@ -12,5 +12,5 @@ Step by step tutorial on how to create a repo.
 To save changes
 1. ctrl+S // save work
 2. git add . // adds all
-3. git commit -m "add step two"
+3. git commit -m "add step three"
 4. git push // pushes changes
